@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gios.PSM.Windows", "Gios.PSM.Windows\Gios.PSM.Windows.csproj", "{FBE26414-46C8-4F26-8B89-C0502C06C480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gios.PSM", "Gios.PSM\Gios.PSM.csproj", "{D3A16FF9-8678-4932-AB20-420F8B61974B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gios.PSM.Console", "Gios.PSM.Console\Gios.PSM.Console.csproj", "{1490F3B0-1444-4527-9242-3DDCF9798E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		LIB|Any CPU = LIB|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.LIB|Any CPU.ActiveCfg = LIB|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.LIB|Any CPU.Build.0 = LIB|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A16FF9-8678-4932-AB20-420F8B61974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A16FF9-8678-4932-AB20-420F8B61974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A16FF9-8678-4932-AB20-420F8B61974B}.LIB|Any CPU.ActiveCfg = LIB|Any CPU
+		{D3A16FF9-8678-4932-AB20-420F8B61974B}.LIB|Any CPU.Build.0 = LIB|Any CPU
+		{D3A16FF9-8678-4932-AB20-420F8B61974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A16FF9-8678-4932-AB20-420F8B61974B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1490F3B0-1444-4527-9242-3DDCF9798E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1490F3B0-1444-4527-9242-3DDCF9798E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1490F3B0-1444-4527-9242-3DDCF9798E90}.LIB|Any CPU.ActiveCfg = LIB|Any CPU
+		{1490F3B0-1444-4527-9242-3DDCF9798E90}.LIB|Any CPU.Build.0 = LIB|Any CPU
+		{1490F3B0-1444-4527-9242-3DDCF9798E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1490F3B0-1444-4527-9242-3DDCF9798E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

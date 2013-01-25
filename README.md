@@ -1,0 +1,2 @@
+Gios PDF Splitter and Merger is a handy tool that will help you merging and splitting PDF documents with ease.
+Version 2.0 supports also merging to PDF of Jpeg images, which means that you can compose your PDF using also scanned documents! The first Free and Open Source PDF Split and Merge utility for Windows!

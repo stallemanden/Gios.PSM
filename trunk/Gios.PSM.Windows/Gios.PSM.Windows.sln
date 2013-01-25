@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gios.PSM.Windows", "Gios.PSM.Windows.csproj", "{FBE26414-46C8-4F26-8B89-C0502C06C480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SM|Any CPU = SM|Any CPU
+		LIB|Any CPU = LIB|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.LIB|Any CPU.ActiveCfg = LIB|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.LIB|Any CPU.Build.0 = LIB|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.SM|Any CPU.ActiveCfg = SM|Any CPU
+		{FBE26414-46C8-4F26-8B89-C0502C06C480}.SM|Any CPU.Build.0 = SM|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Gios.PSM.Windows.csproj
+	EndGlobalSection
+EndGlobal
